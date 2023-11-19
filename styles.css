@@ -111,3 +111,8 @@ footer * {
     margin-top: 20px;
     font-size: 18px;
 }
+
+.toggle {
+    display: inline-block;
+    margin: auto 20px;
+}
